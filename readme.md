@@ -1,5 +1,7 @@
 # Simple Laravel 5.6 Todo List
 
+![Todos](https://github.com/ryanrahman26/todos/blob/master/todos.jpg)
+
 ## Install
 - Download this repo / clone using Git & extract 
 - Install project dependency by running `composer install`
